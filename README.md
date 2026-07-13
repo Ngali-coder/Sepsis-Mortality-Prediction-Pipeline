@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://github.com/Ngali-coder/Sepsis-Mortality-Prediction-Pipeline/blob/main/images/figure3.png" alt="Ngali Abiru Banner" width="100%">
+</p>
+
+
+
+
 # Sepsis Mortality Prediction
 
 ### An end-to-end clinical machine learning pipeline for early mortality-risk prediction from intensive-care data
