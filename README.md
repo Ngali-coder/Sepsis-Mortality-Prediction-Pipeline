@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Ngali-coder/Sepsis-Mortality-Prediction-Pipeline/blob/main/images/figure3.png" alt="Ngali Abiru Banner" width="100%">
+  <img src="https://github.com/Ngali-coder/Sepsis-Mortality-Prediction-Pipeline/blob/main/images/sepsis%20banner.png" alt="Ngali Abiru Banner" width="100%">
 </p>
 
 
