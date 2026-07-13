@@ -1,8 +1,4 @@
-# Results and Findings
-
-<p align="center">
-  <img src="" alt="Ngali Abiru Banner" width="100%">
-</p>
+# Results, Findings and Visualization
 
 ## Overview
 
@@ -180,3 +176,62 @@ Conversely, the tuned SVM exhibited severe overfitting and failed to generalize 
 For a clinical decision-support application, balanced performance and interpretability were considered more valuable than maximizing a single evaluation metric.
 
 Therefore, the tuned Logistic Regression model was selected as the most appropriate model for mortality prediction in septic ICU patients. 
+
+# Some visualisation
+
+<p align="center">
+  <img src="https://github.com/Ngali-coder/Sepsis-Mortality-Prediction-Pipeline/blob/main/images/figure1.png" alt="Ngali Abiru Banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Ngali-coder/Sepsis-Mortality-Prediction-Pipeline/blob/main/images/figure2.png" alt="Ngali Abiru Banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Ngali-coder/Sepsis-Mortality-Prediction-Pipeline/blob/main/images/figure3.png" alt="Ngali Abiru Banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Ngali-coder/Sepsis-Mortality-Prediction-Pipeline/blob/main/images/figure4.png" alt="Ngali Abiru Banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Ngali-coder/Sepsis-Mortality-Prediction-Pipeline/blob/main/images/figure5.png" alt="Ngali Abiru Banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Ngali-coder/Sepsis-Mortality-Prediction-Pipeline/blob/main/images/figure6.png" alt="Ngali Abiru Banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Ngali-coder/Sepsis-Mortality-Prediction-Pipeline/blob/main/images/figure7.png" alt="Ngali Abiru Banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Ngali-coder/Sepsis-Mortality-Prediction-Pipeline/blob/main/images/figure8.png" alt="Ngali Abiru Banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Ngali-coder/Sepsis-Mortality-Prediction-Pipeline/blob/main/images/figure9.png" alt="Ngali Abiru Banner" width="100%">
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
