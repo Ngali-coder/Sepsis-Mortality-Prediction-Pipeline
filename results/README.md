@@ -1,5 +1,9 @@
 # Results and Findings
 
+<p align="center">
+  <img src="" alt="Ngali Abiru Banner" width="100%">
+</p>
+
 ## Overview
 
 Three machine learning algorithms were developed and evaluated for early mortality prediction in septic ICU patients:
